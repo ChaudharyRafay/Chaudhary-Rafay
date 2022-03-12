@@ -26,9 +26,9 @@ const getinfo=async(event)=>{
         //condition to shoe sunny image or haze image or etc
         // const tempmode=arrdata[0].weather[0].main;
         // if(tempmode=="Clear"){
-        //     temp_status.innerText=`<i class="fa fa-cloud"></i>`;
+        //     temp_status.innerText=`<i class="fa-solid fa-cloud"></i>`;
         // }else if(tempmode=="Clouds"){
-        //     temp_status.innerText=`<i class="fa fa-cloud"></i>`;
+        //     temp_status.innerText=`<i class="fa-solid fa-cloud"></i>`;
         // }else if(tempmode=="Rain"){
         //     temp_status.innerText=`<i class="fa fa-cloud"></i>`;
         // }else {

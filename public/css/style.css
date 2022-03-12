@@ -245,6 +245,19 @@ margin: 5rem 0;
 height: auto;
 margin-top: 3rem ;
     }
+sup{
+        font-size: 2rem;
+         margin-top: 2rem; 
+    }
+#temp{
+        font-size:3rem ;
+    }
+#temp_real_val{
+        font-size: 3rem;
+    }
+#temp_status{
+        font-size: 3rem;
+    }
 .temp_form{
     width: auto;
 }
