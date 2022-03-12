@@ -250,13 +250,13 @@ sup{
          margin-top: 2rem; 
     }
 #temp{
-        font-size:3rem ;
+        font-size:2rem ;
     }
 #temp_real_val{
-        font-size: 3rem;
+        font-size: 2rem;
     }
 #temp_status{
-        font-size: 3rem;
+        font-size: 2rem;
     }
 .temp_form{
     width: auto;
